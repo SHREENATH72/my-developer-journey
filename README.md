@@ -12,7 +12,7 @@ This repo contains all the projects I build while learning HTML, CSS and more.
 - Form Practice
 
 ### CSS Projects
-- basic css projects
+- Basic css projects
 - Layout Practice
 
 ---
