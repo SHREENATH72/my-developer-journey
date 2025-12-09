@@ -3,7 +3,7 @@ This is a personal HTML-based resume project showcasing my profile, education, s
 
 
 ## 🔗 Live Demo
-https://html-resume-git-main-dummy22004-commits-projects.vercel.app/
+https://html-resume-git-main-dummy22004-commits-projects.vercel.app?_vercel_share=Ir08q0PwGE0jqreyPzX6lP2wtgsUXQgr
 
 
 ## 🎯 What I Practiced
