@@ -16,5 +16,5 @@ https://complex-form-gamma.vercel.app/
 - Form structure and layout
 
 ## 📸 Output Screenshot
-![Form Output](./img.png)
+![Form Output](./image.png)
 
