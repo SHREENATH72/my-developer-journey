@@ -14,5 +14,5 @@ This folder contains two HTML table practice files:
 
 ## 📸 Output Screenshots
 
-![Seminar Table Output](./screenshot1.png)  
-![Population Table Output](./screenshot2.png)
+![Seminar Table Output] (./screenshot1.png)  
+![Population Table Output] (./screenshot2.png)
