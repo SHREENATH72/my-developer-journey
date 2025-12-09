@@ -14,7 +14,6 @@ https://form-practice-six.vercel.app/
 - Basic form structure and labels
 
 ## 📸 Output Screenshot
-_Add your output screenshot below:_
 
 ![Form Output](./screenshot.png)
 
