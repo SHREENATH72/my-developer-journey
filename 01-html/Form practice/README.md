@@ -3,8 +3,10 @@
 This project contains a simple practice page using HTML form elements.  
 It includes gender selection, language checkboxes, and a file upload input.
 
-## 🔗 Live Demo
-https://form-practice-six.vercel.app/
+
+## 🔗 Live Demo  
+[Check out → Live Demo](https://form-practice-six.vercel.app/)
+
 
 ## 🎯 What I Practiced
 - Using `<fieldset>` and `<legend>` to group form controls  
