@@ -2,8 +2,8 @@
 This is a personal HTML-based resume project showcasing my profile, education, skills, and projects. It is built using **HTML** and designed to be simple, clean, and professional.
 
 
-## 🔗 Live Demo
-https://html-resume-git-main-dummy22004-commits-projects.vercel.app?_vercel_share=Ir08q0PwGE0jqreyPzX6lP2wtgsUXQgr
+## 🔗 Live Demo  
+[Check out → Live Demo](https://html-resume-git-main-dummy22004-commits-projects.vercel.app?_vercel_share=Ir08q0PwGE0jqreyPzX6lP2wtgsUXQgr)
 
 
 ## 🎯 What I Practiced
