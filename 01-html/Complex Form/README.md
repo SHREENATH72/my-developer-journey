@@ -2,8 +2,8 @@
 
 This project is a practice exercise to build a **complex multi-section HTML form** using fieldsets, text inputs, dropdowns, radio buttons, checkboxes, and a textarea.
 
-## 🔗 Live Demo
-https://complex-form-gamma.vercel.app/
+## 🔗 Live Demo  
+[Check out → Live Demo](https://complex-form-gamma.vercel.app/)
 
 ## 🎯 What I Practiced
 - Multi-section forms using `<fieldset>` and `<legend>`
