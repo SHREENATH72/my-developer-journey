@@ -3,8 +3,8 @@
 This project is a simple **Job Application Form** created using essential HTML form elements.  
 It includes text fields, file upload, dropdowns, checkboxes, radio buttons, textarea, and a submit button.
 
-## 🔗 Live Demo
-https://harlequin-kimberley-44.tiiny.site
+## 🔗 Live Demo  
+[Check out → Live Demo](https://harlequin-kimberley-44.tiiny.site)
 
 ## 🎯 What I Practiced
 - Creating structured HTML forms  
