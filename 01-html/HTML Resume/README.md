@@ -11,8 +11,6 @@ This is a personal HTML-based resume project showcasing my profile, education, s
 - Adding images, links, and contact info (`mailto:`, LinkedIn, GitHub)  
 - Using tables for layout and lists (`<ul>`, `<li>`)  
 - Highlighting text with `<b>`  
-- Creating multi-section forms with `<fieldset>` and `<legend>`  
-- Using various input types, radio buttons, dropdowns, textareas, and checkboxes  
 - Organizing projects with descriptions, hosted links, and GitHub links  
 
 
